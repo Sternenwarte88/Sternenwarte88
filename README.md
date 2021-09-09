@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Stephan and born in June 1988 in Germany. Around May I started to learn MERN and done some smaller code along projects in my lessons and started to write 2 smaller projects on my self. 
+
+Feel free to take a look around, but please, be aware that I'm at the start on my journey. There is so much fun and to learn in this Javascript World :D
+
+<img src="https://wakatime.com/share/@9eccbde2-18a2-44ad-899b-a6e7111e92da/2c01d6fa-0b39-403b-84ee-442cd6908a15.svg" width="600"/>
+<img src="https://wakatime.com/share/@9eccbde2-18a2-44ad-899b-a6e7111e92da/1edaad2e-382b-475b-9b0e-86e48b6ebdc7.svg" width="600"/>
 <!--
 **Sternenwarte88/Sternenwarte88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
