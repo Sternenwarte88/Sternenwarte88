@@ -1,11 +1,21 @@
-### Hi there 👋
+# Hey, welcome to my GitHub profile! 👋
 
-I'm Stephan and born in June 1988 in Germany. Around May I started to learn MERN and done some smaller code along projects in my lessons and started to write 2 smaller projects on my self. 
+I'm a passionate software developer who loves blending new technologies together.  
+For the past three years, I've been diving deep into Unity 🎮, mastering C#, dependency injection, and Message Pipe. Since January, I've been expanding my horizons in an exciting DevOps training—Python, Jenkins, Git workflows, Docker, and Kubernetes are now part of my everyday toolkit 🐳.
 
-Feel free to take a look around, but please, be aware that I'm at the start on my journey. There is so much fun and to learn in this Javascript World :D
+## My Passion: Backend Development 💡
 
-<img src="https://wakatime.com/share/@9eccbde2-18a2-44ad-899b-a6e7111e92da/2c01d6fa-0b39-403b-84ee-442cd6908a15.svg" width="600"/>
-<img src="https://wakatime.com/share/@9eccbde2-18a2-44ad-899b-a6e7111e92da/1edaad2e-382b-475b-9b0e-86e48b6ebdc7.svg" width="600"/>
+While I enjoy exploring various tech domains, my heart beats strongest for creating robust backends. Here’s my favorite stack in action:
+
+- **MongoDB:** For flexible and scalable data storage 🗃️  
+- **Express:** A minimalist framework for building fast and efficient APIs ⚡  
+- **React:** For crafting dynamic, modern frontends that engage users 🔥  
+- **Node.js:** A high-performance runtime that seamlessly ties the stack together 🔗
+
+I love developing innovative solutions and building projects that not only shine technically but also deliver real value 🚀.
+
+Feel free to explore my projects—let's build something great together! 🤝
+
 <!--
 **Sternenwarte88/Sternenwarte88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
