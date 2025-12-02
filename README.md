@@ -1,32 +1,33 @@
-# Hey, welcome to my GitHub profile! 👋
+# 👋 Hi, I'm Stephan
 
-I'm a passionate software developer who loves blending new technologies together.  
-For the past three years, I've been diving deep into Unity 🎮, mastering C#, dependency injection, and Message Pipe. Since January, I've been expanding my horizons in an exciting DevOps training—Python, Jenkins, Git workflows, Docker, and Kubernetes are now part of my everyday toolkit 🐳.
+I'm a backend developer who enjoys building stable, well-structured systems with **Node.js**, **TypeScript**, and clean architecture principles.  
+Over the years I've worked across different areas, but my focus today is firmly on **backend engineering**, API design, and solid software fundamentals.
 
-## My Passion: Backend Development 💡
+## 🔧 Tech Focus
+- **Node.js**, **TypeScript**, **NestJS**, **Express**
+- **REST API design**, clean architecture, dependency injection
+- **Docker**, GitHub Actions, DevOps awareness
+- **SQL / NoSQL**, MongoDB
 
-While I enjoy exploring various tech domains, my heart beats strongest for creating robust backends. Here’s my favorite stack in action:
+## 🚀 What I build
+I focus on backend systems that are reliable, clear, and maintainable:
+- Authentication & security-aware modules  
+- Microservices with separation of concerns  
+- Well-structured REST APIs  
+- Learning projects aimed at improving architecture and code quality  
 
-- **MongoDB:** For flexible and scalable data storage 🗃️  
-- **Express:** A minimalist framework for building fast and efficient APIs ⚡  
-- **React:** For crafting dynamic, modern frontends that engage users 🔥  
-- **Node.js:** A high-performance runtime that seamlessly ties the stack together 🔗
+## 📂 Featured Projects
+- **Unwritten Legends – Auth & Dashboard Microservices**  
+  Authentication module + status dashboard built as two independent microservices.
 
-I love developing innovative solutions and building projects that not only shine technically but also deliver real value 🚀.
+- **CourseManager API – TypeScript Backend Showcase**  
+  Clean TypeScript architecture with services, controllers, manual validation and unit tests.
 
-Feel free to explore my projects—let's build something great together! 🤝
+- **DevOps Final Project – Local Infrastructure Setup**  
+  A practical DevOps-oriented environment with Docker, CI, and Kubernetes basics.
 
-<!--
-**Sternenwarte88/Sternenwarte88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💡 Philosophy
+I value clarity over complexity, strong typing over guesswork, and building systems that last.  
+Security thinking, clean code, and predictable behavior guide how I write my backend services.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories — always improving, always building.
